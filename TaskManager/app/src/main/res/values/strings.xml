@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Task Manager</string>
+    <string name="task_entry_title"> Criar Tarefa </string>
+    <string name="task_details_title"> Task Details </string>
+    <string name="task_edit_title"> Editar Tarefa </string>
+    <string name="attention">Atenção</string>
+    <string name="delete">Deletar</string>
+    <string name="delete_question">Tem certeza que quer deletar?</string>
+    <string name="no">Não</string>
+    <string name="yes">Sim</string>
+    <string name="item"> Item </string>
+    <string name="description"> Descrição </string>
+    <string name="deadline"> Prazo </string>
+    <string name="done"> Feita? </string>
+    <string name="check"> Tarefa feita! </string>
+    <string name="uncheck"> Tarefa não feita! </string>
+</resources>
